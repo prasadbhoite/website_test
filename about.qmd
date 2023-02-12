@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hi 👋 , This is Prasad Bhoite. I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA.
